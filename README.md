@@ -27,6 +27,6 @@ You need 40 pints to proceed to the next level<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;LEVEL 3 after winning<br/>
 ![l3win](https://github.com/annous246/MyFirstGameWithC-2021-2022-/assets/64448280/36a86af2-2eb7-4c71-a4ee-581c6a71b39d)<br/>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ending Screen<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ending Screen (Loading ...) <br/>
 ![screen-capture (16)](https://github.com/annous246/MyFirstGameWithC-2021-2022-/assets/64448280/dfb86694-4591-4959-98ae-177ec9c6a614)<br/>
 
